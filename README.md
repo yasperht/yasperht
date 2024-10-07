@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I'm Claudio Moreno, Software Engineering student. 💻 I'm passionate about leading innovative projects and collaborating in teams to create effective technological solutions. 🚀 With outstanding university projects in web and mobile development, networking and communications, and agile methodologies such as SCRUM, I'm always looking for new challenges that allow me to grow and learn. 📚<br><br>I am self-taught, always exploring new technologies and honing my skills. 🌐 I also enjoy music, playing Andean instruments and guitar 🎸, and I keep improving my English. 📈<br><br>I am excited about contributing to projects that make a difference and I am ready to face any challenge. 💪 Thank you for visiting my profile!<br>
 
 
