@@ -61,7 +61,7 @@ Propuesta de aplicación móvil basada en Procesamiento de Lenguaje Natural y Re
 
 ---
 
-### 🆘 TechSOS - Landing Page de Emergencias Técnicas | **[Ver Proyecto](https://github.com/SoftSysHorizon-IHC/LandingPage-TechSOS)**
+### 🆘 TechSOS - Landing Page para Centros de Reparación de Celulares | **[Ver Proyecto](https://github.com/SoftSysHorizon-IHC/LandingPage-TechSOS)**
 **Líder del equipo** | 🌐 Startup: SoftSys Horizon  
 Creamos una Landing Page para centros de reparación especializada de dispositvo móviles como celulares aplicando el marco de trabajo SCRUM. Se trabajó desde la investigación del problema hasta la implementación con HTML5, CSS3 y JavaScript. Aplicamos User Stories, Sprint Backlog, Spring Planning, Sprint Backlog, Lean UX Process, Competitive Analysis, User Journey Mapping y Testing con Gherkin.
 
@@ -73,7 +73,7 @@ Creamos una Landing Page para centros de reparación especializada de dispositvo
 
 ### 🎨 Diseño UX para Bajo Rendimiento Académico | Proyecto documental
 **Líder del equipo** | 🏫 Investigación y UX  
-Aplicamos Design Thinking para abordar el problema del bajo rendimiento académico en estudiantes universitarios. Se desarrollaron entrevistas, empathy map, ideación con brainstorming, prototipos en de bajo nivel papel y prototipos de alto nivel en Figma, y validaciones de funcionalidades mediante entrevistas con usuarios e historietas visuales.
+Aplicamos Design Thinking para abordar el problema del bajo rendimiento académico en estudiantes universitarios. Se desarrollaron entrevistas, empathy maps, ideación con brainstorming, prototipos en de bajo nivel en papel y prototipos de alto nivel en Figma, y validaciones de funcionalidades mediante entrevistas con usuarios e historietas visuales.
 
 📌 **Enfoque:** Investigación UX, Design Thinking, Prototipado en Figma  
 🎖️ **Equipo:** Gabriela del Pilar Chaupin Mendoza, Mariela Martínez Carbajal, Anghelina Lizet Rojas Cutipa, Juan Pablo Paredes Hilario  
