@@ -1,5 +1,9 @@
 # About Me:
-Soy Claudio Moreno, estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la innovación tecnológica. 💻 Me enfoco en el desarrollo de soluciones en diversos ámbitos, y disfruto trabajando en equipo para enfrentar desafíos complejos. 🚀 A lo largo de mi formación, he adquirido experiencia en programación, bases de datos y metodologías ágiles, y estoy emocionado por aplicar estos conocimientos en proyectos prácticos. 💪 Mi objetivo es seguir creciendo profesionalmente y contribuir al desarrollo tecnológico mediante proyectos colaborativos.<br>
+Soy estudiante de Ingeniería de Software en la UPC🎓. Desde que empecé la carrera, me he dedicado a realizar proyectos tecnológicos que resuelven problemas reales. Me gusta encontrar soluciones prácticas, ya sea liderando un equipo o aprendiendo algo nuevo en el proceso. 
+
+He liderado equipos en la mayoría de mis cursos universitarios, asegurándome de que cada proyecto salga adelante con resultados sólidos 🤝. También he colaborado con organizaciones, donde aprendí a coordinar esfuerzos, resolver problemas prácticos y adaptarme a diferentes retos. Cada experiencia me ha enseñado algo valioso sobre cómo trabajar mejor en equipo y entregar resultados que funcionan. 
+
+Me motiva contribuir a proyectos donde la tecnología haga una diferencia real, desde mejorar procesos hasta apoyar causas que importan. Si compartes este interés por crear soluciones efectivas, hablemos 🚀.<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=TypeScript&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=JavaScript&style=flat)
